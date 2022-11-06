@@ -4,7 +4,7 @@
 
 - [Vision](vision_solveIt.md)
 - [Modelo de dominio](modelo_dominio_solveIt.md)
-- [Event Storming]()
+- [Event Storming](https://app.diagrams.net/#G1xzYwOvxS6JC0bIpPKa0dGDEK1k4xD4MM)
 - [Drivers Arquitectonicos](drivers_solvItd.md)
 
 

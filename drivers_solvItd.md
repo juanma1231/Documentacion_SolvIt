@@ -8,12 +8,12 @@
 			<br>
 			1.Características
 			<br>
-			![esc](Images/Atributos-Calidad/Confiabilidad/CaracterisiticasConfiabilidad.png)<br>
+			![esc](imagenes/atributos/confiabilidad/caracteristics.jpg))<br>
 			2.Escenarios<br>
 				2.1. Escenario de Calidad 1
-				![esc](Images/Atributos-Calidad/Confiabilidad/EsBaConfiabilidad1.png)
+				![esc](imagenes/atributos/confiabilidad/escenario1.jpg)
 				2.2. Escenario de calidad 2
-				![esc](Images/Atributos-Calidad/Confiabilidad/EsBaConfiabilidad2.png)
+				![esc](imagenes/atributos/confiabilidad/escenario2.jpg)
 				2.3. Escenario de Calidad 3
 				![esc](Images/Atributos-Calidad/Confiabilidad/EsBaConfiabilidad3.png)
 				2.4. Escenario de calidad 4

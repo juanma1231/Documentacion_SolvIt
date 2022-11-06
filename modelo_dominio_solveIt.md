@@ -38,5 +38,5 @@
 [Simulacion de Datos](https://docs.google.com/spreadsheets/d/18kCBN3mbheota7gEqgPF2z--vVf4UDZw/edit#gid=1857676797)
 <br>
 <br>
-**Modelo de Dominio**
+### Modelo de Dominio
 <img src="imagenes/modelo.jpg" alt="Modelo Dominio" width="500">

@@ -31,12 +31,16 @@
 - **Mensaje**
     - Entidad que representa los mensajes que envian y reciben los usuarios
 
+### Enlace al Modelo de Dominio
 [Modelo](https://app.diagrams.net/#G14tKhf90TesHU4usEeGjvr45pFx9YN2fk)
 <br>
 <br>
-<br>
+
+### Enlace a la Simulacion De Datos
+
 [Simulacion de Datos](https://docs.google.com/spreadsheets/d/18kCBN3mbheota7gEqgPF2z--vVf4UDZw/edit#gid=1857676797)
 <br>
 <br>
-### Modelo de Dominio
+
+### Imagen  Modelo de Dominio
 <img src="imagenes/modelo.jpg" alt="Modelo Dominio" width="500">

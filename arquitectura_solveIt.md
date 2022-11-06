@@ -1,7 +1,7 @@
 # Arquitectura de Referencia
 
-### Enlace
+### Enlace Arquetipo Base
 [Arquitectura de referencia](https://app.diagrams.net/#G1DdLvFe2DZT05Z75wqptmavakX4RL69Xv1)
 
-### Imagen
+### Imagen Arquetipo Base
 <img src="imagenes/arqurtipo.jpg" alt="Arquetipo" width="900">

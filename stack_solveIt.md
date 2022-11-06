@@ -2,7 +2,7 @@
 
 <br>
 
-## Comparativas de los frameworks que tuvimos en cuenta:
+## Enlace Comparativas de los frameworks que tuvimos en cuenta:
 [Comparativas](https://docs.google.com/spreadsheets/d/13aX-_-8q6NFozmRuIW1yAnIRR0p5lPNo/edit#gid=620357717)
 <br>
 

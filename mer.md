@@ -1,7 +1,7 @@
 # MER
 
 ### Enlace del MER
-[MER](https://app.diagrams.net/#G1QUul4-Fr28lA2ykkdYzlTKR9rC9vHEaQ)
+[MER](https://drive.google.com/drive/folders/1G34iI3sMOCPgGRXLUoHwNOOEzntw2cCm)
 
 ### Imagen Mer
-<img src="imagenes/mer.jpg" alt="MER" width="800">
+<img src="imagenes/MER.png" alt="MER" width="1000">

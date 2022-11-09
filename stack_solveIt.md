@@ -8,16 +8,14 @@
 
 ## FRONT END
 ### React
-- Con React, los desarrolladores pueden mantener dos plataformas y una tecnología común al compartir una única base de código en varias plataformas. Expresa la capacidad de reutilizar código nativo y ayuda a desarrollar aplicaciones más económicas a un ritmo más rápido. Esto ahorra tiempo y codificación. 
-React Native es un marco de desarrollo de aplicaciones líder en la industria que se esfuerza por brindar a los clientes una experiencia de usuario inigualable al alcance de su mano. Impulsado por JavaScript, también permite a los desarrolladores iterar a la velocidad del rayo, lo que significa que ya no tendrá que esperar a que finalicen las compilaciones nativas. Solo guardando, viendo y repitiendo
-
+- React es perfecto para aplicaciones grandes donde cambie la data frecuentemente, además react cuenta con una amplia librería, documentación y fácil implementación en aplicaciones SPA. además de ofrecer una experiencia interactiva con el usuario
 ## BACK END
 ### Django
-- poner aqui el porque django
+- Django es uno de los framework mas usados a nivel mundial por su fácil manejo, amplias librerías, documentación extensa, rendimiento, seguridad  y escalabilidad. Django es ideal para el proyecto ya que se busca una transacción rápida y funcional para el usuario, algo que este protegido pero que no pierda calidad en sus procesos mientras que al mismo tiempo es ágil en su desarrollo y posee una muy baja curva de aprendizaje.
 
 ## BASE DE DATOS
 ### PosgreSQL
-- poner aqui el porque posgreSQL
+- Es un software gratuito y de fácil acceso, que permite la gestión de bases de datos a gran escala, además de contar con una gran variedad de extensiones y documentación creadas por la comunidad, también, cuenta con el lenguaje PL/PGSQL que permite realizar diversas gestiones a nivel de base de datos.
 
 ## Servicio de Notificaciones
 ### Bouncezap
@@ -25,7 +23,7 @@ React Native es un marco de desarrollo de aplicaciones líder en la industria qu
 
 ## Servicio de Autentificacion
 ### Auth0
-- poner aca porque Auth0
+- Auth0 es uno de los pocos servicios gratuitos de autentificación en 2, además de esto es uno de los gestores de autentificación mas conocidos en el mercado de las aplicaciones gracias a su calidad y confiabilidad en términos servicios disponibles y métodos de verificación con aplicaciones de terceros.
 
 ## WFA
 ### Oracle

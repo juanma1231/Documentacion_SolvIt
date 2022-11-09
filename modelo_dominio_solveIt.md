@@ -4,6 +4,9 @@
 ### Enlace al Modelo de Dominio
 [Modelo](https://app.diagrams.net/#G14tKhf90TesHU4usEeGjvr45pFx9YN2fk)
 
+### Enlace Modelo de Dominio HTML
+[modelo](Modelo%20de%20dominio.drawio.html)
+
 ### Enlace a la Simulacion De Datos
 
 [Simulacion de Datos](https://docs.google.com/spreadsheets/d/18kCBN3mbheota7gEqgPF2z--vVf4UDZw/edit#gid=1857676797)

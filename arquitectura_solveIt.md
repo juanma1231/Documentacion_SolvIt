@@ -5,3 +5,6 @@
 
 ### Imagen Arquetipo Base
 <img src="imagenes/arqurtipo.jpg" alt="arquetipo" width="900">
+
+### Arquetipo base HTML
+[Arquetipo](Arquetipo%20base.drawio.html)

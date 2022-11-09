@@ -14,3 +14,5 @@
 - [Modelo de paquetes](modelo_paquetes.md)
 - [Diagrama de Estados](diagrama_estados.md)
 - [Diagrama de Actividad](diagrama_actividad.md)
+- [Diagrama de Secuencia](secuencia.md)
+- [Linea Base](lineaBase.md)

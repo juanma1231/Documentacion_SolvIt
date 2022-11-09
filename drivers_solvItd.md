@@ -54,7 +54,7 @@
 			<br>
 			- Enlace a los Escenarios
 			<br>
-			- [Soportado](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=158668228)
+			- [Soportado](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=1363190157)
 			<br>
 	
 
@@ -105,6 +105,6 @@ Reto técnico:
 - 2. El producto cuenta con una fecha límite establecida para noviembre del 2022
 
 ### Enlace a las restricciones tecnicas y de negocio
-[Restricciones](https://docs.google.com/document/d/18UIK-XLJWazQ2H5z3e5t7aHTRV5oJ1J65fnhSRp_BfU/edit)
+[Restricciones](https://docs.google.com/document/d/14Klcr59CLKW6qX8hezcc0GOBvkr7lGdb9Xo5YPChRGc/edit)
 
 

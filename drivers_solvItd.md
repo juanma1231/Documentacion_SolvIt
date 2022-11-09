@@ -77,6 +77,11 @@
 - 3. Que el usuario que envía el mensaje pueda enterarse cuando el receptor reciba el mensaje
 Reto técnico:
 - 4. Poder garantizar que los usuarios puedan recibir y enviar tanto solicitudes como mensajes de la manera más efectiva y rápida
+- 5. Asegurar que cuando una publicación haya sido solicitada y se haya aceptado la solicitud la publicación se suspenda
+<br>
+
+### Enlace a las funcionalidades criticas
+[Criticas](https://docs.google.com/document/d/18UIK-XLJWazQ2H5z3e5t7aHTRV5oJ1J65fnhSRp_BfU/edit)
 <br>
 **Spikes:**
 - 1. Yo como usuario deseo recibir mensajes  para poder concretar las prestación de un servicio que requiero
@@ -86,6 +91,7 @@ Reto técnico:
         - Crear una publicación
         - dentro de los filtros de creación de la publicación, seleccionar que deseo que me envien solicitudes
 - 3. yo como cliente, quiero poder visualizar si mis mensajes llegan a su destino y como estos son recibidos por los otros usuarios
+
 
 ## Restricciones Tecnicas
 - 1. La buena implementacion del codigo limpio
@@ -97,5 +103,8 @@ Reto técnico:
 ## Restricciones de Negocio
 - 1. No se cuenta con un presupuesto inicial, ni con financiamiento de ningún tipo
 - 2. El producto cuenta con una fecha límite establecida para noviembre del 2022
+
+### Enlace a las restricciones tecnicas y de negocio
+[Restricciones](https://docs.google.com/document/d/18UIK-XLJWazQ2H5z3e5t7aHTRV5oJ1J65fnhSRp_BfU/edit)
 
 

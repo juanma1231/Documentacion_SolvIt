@@ -8,6 +8,7 @@
 
 
 ### Enlace modelo de componentes Front End
-[Modelo Componentes]()
+[Modelo Componentes](https://app.diagrams.net/#G1QUul4-Fr28lA2ykkdYzlTKR9rC9vHEaQ)
 
 ### Imagen Diagrama de Componentes Front End
+<img src="imagenes/componentesfront.jpg" alt="componentes" width="800">

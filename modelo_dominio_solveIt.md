@@ -1,4 +1,20 @@
-# Modelo de Dominio
+# Modelo de Dominio 
+
+
+### Enlace al Modelo de Dominio
+[Modelo](https://app.diagrams.net/#G14tKhf90TesHU4usEeGjvr45pFx9YN2fk)
+
+### Enlace a la Simulacion De Datos
+
+[Simulacion de Datos](https://docs.google.com/spreadsheets/d/18kCBN3mbheota7gEqgPF2z--vVf4UDZw/edit#gid=1857676797)
+<br>
+<br>
+
+### Imagen  Modelo de Dominio
+<img src="imagenes/modelo.jpg" alt="Modelo Dominio" width="900">
+
+
+
 ## Entidades
 - **Ciudad**
     - Entidad que representa las diferentes cuidades donde viven los usuarios que usan la aplicacion
@@ -30,17 +46,3 @@
     - Entidad que representa el estado en el que se encuentra un mensaje
 - **Mensaje**
     - Entidad que representa los mensajes que envian y reciben los usuarios
-
-### Enlace al Modelo de Dominio
-[Modelo](https://app.diagrams.net/#G14tKhf90TesHU4usEeGjvr45pFx9YN2fk)
-<br>
-<br>
-
-### Enlace a la Simulacion De Datos
-
-[Simulacion de Datos](https://docs.google.com/spreadsheets/d/18kCBN3mbheota7gEqgPF2z--vVf4UDZw/edit#gid=1857676797)
-<br>
-<br>
-
-### Imagen  Modelo de Dominio
-<img src="imagenes/modelo.jpg" alt="Modelo Dominio" width="500">

@@ -4,97 +4,55 @@
 [Atributos de Calidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=1357460348)
 
   - Características y escenarios de calidad
-	- Confiabilidad
+    - Seguridad
 			<br>
-			1.Características
-			<br>
-			![esc](imagenes/atributos/confiabilidad/caracteristics.jpg))<br>
-			2. Algunos Escenarios<br>
-				2.1. Escenario de Calidad 1
-				![esc](imagenes/atributos/confiabilidad/escenario1.jpg)
-				2.2. Escenario de calidad 2
-				![esc](imagenes/atributos/confiabilidad/escenario2.jpg)
-				2.3. Escenario de Calidad 3
-				![esc](imagenes/atributos/confiabilidad/escenario3.jpg)
-				2.4. Escenario de calidad 4
-				![esc](imagenes/atributos/confiabilidad/escenario4.jpg)
-				2.5. Escenario de Calidad 5
-				![esc](imagenes/atributos/confiabilidad/5.jpg)
-	- Disponibilidad
-			<br>
-			1.Características
-			<br>
-			![esc](imagenes/atributos/disponibilidad/c.jpg)<br>
-			2. Algunos Escenarios<br>
-				2.1. Escenario 1
-					![esc](imagenes/atributos/disponibilidad/escenario1.jpg)
-				2.2. Escenario 2
-					![esc](imagenes/atributos/disponibilidad/escenario2.jpg)
-				2.3. Escenario 3
-					![esc](imagenes/atributos/disponibilidad/escenario3.jpg)
-	- Capacidad de ser Soportado
-			<br>
-			1.Características
-			<br>
-			![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/c.jpg)<br>
-			2.Escenarios<br>
-				2.1. Escenario 1
-					![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/1.jpg)
-				2.2. Escenario 2
-					![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/2.jpg)
-	
-	- Capacidad de ser Administrado
-			<br>
-			1.Características
-			<br>
-			![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/c.jpg)
-			<br>
-			2.Algunos Escenarios<br>
-				2.1. Escenario 1
-					![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/1.jpg)
-				2.2. Escenario 2
-					![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/2.jpg
-				2.3. Escenario 3
-					![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/3.jpg)
-				2.4. Escenario 4
-					![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/4.jpg)
-                2.5 Escenario 5	
-                    ![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/5.jpg)
-	- Rendimiento
-			<br>
-			1.Características
-			<br>
-			![esc](imagenes/atributos/rendimiento/c.jpg)
-			<br>
-			2.Algunos Escenarios<br>
-				2.1. Escenario 1
-					![esc](imagenes/atributos/rendimiento/1.jpg)
-				2.2. Escenario 2
-					![esc](imagenes/atributos/rendimiento/2.jpg)
-				2.3. Escenario 3
-					![esc](imagenes/atributos/rendimiento/3.jpg)
-				2.4. Escenario 4
-					![esc](imagenes/atributos/rendimiento/4.jpg)	
-				2.5. Escenario 5
-					![esc](imagenes/atributos/rendimiento/5.jpg)
-
-	- Seguridad
-			<br>
-			1.Características
+			- **Características de los el Atributo de Calidad**
 			<br>
 			![esc](imagenes/atributos/seguridad/c.jpg)
+			- Enlace a los Escenarios
+			- [Seguridad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=784533013)
+	- Capacidad de ser Administrado
+
 			<br>
-			2.Algunos Escenarios<br>
-				2.1. Escenario 1
-					![esc](imagenes/atributos/seguridad/1.jpg)
-				2.2. Escenario 2
-					![esc](imagenes/atributos/seguridad/2.jpg)
-				2.3. Escenario 3
-					![esc](imagenes/atributos/seguridad/3.jpg)
-				2.4. Escenario 4
-					![esc](imagenes/atributos/seguridad/4.jpg)	
-				2.5. Escenario 5
-					![esc](imagenes/atributos/seguridad/5.jpg)
+			- **Características de el Atributo de Calidad**
+			<br>
+			![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/c.jpg)
+			- Enlace de los escensarios
+			- [Administrado esenarios](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=26093161)
+
+	- Confiabilidad
+			<br>
+			- **Características de el Atributo de Calidad**
+			![esc](imagenes/atributos/confiabilidad/caracteristics.jpg))
+			- Enlace de los escenarios
+			- [Confiabilidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=1298871441)
+			<br>
+
+	- Disponibilidad
+			<br>
+			- **Características de el Atributo de calidad**
+			<br>
+			![esc](imagenes/atributos/disponibilidad/c.jpg)
+			- Enscenarios de los esenarios
+			- [Disponibilidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=158668228)
+	- Capacidad de ser Soportado
+			<br>
+			- **Características el Atributo de calidad**
+			<br>
+			![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/c.jpg)<br>
+			- Enlace a los Escenarios
+			- [Soportado](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=158668228)
+	
+
+	- Rendimiento
+			<br>
+			- **Características de el Atributo de Calidad**
+			<br>
+			![esc](imagenes/atributos/rendimiento/c.jpg)
+			- Enlace a los Escenarios
+			- [Rendimiento](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=339074981)
+
+
 
 ## Funcionalidades Criticas
 - 1. Que los mensajes enviados tanto por interesados como por publicadores lleguen de forma segura y rápida a su destinatario, para así poder concretar el préstamo del servicio.

@@ -13,6 +13,8 @@
 			- Enlace a los Escenarios
 			<br>
 			- [Seguridad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=784533013)
+			<br>
+
 	- Capacidad de ser Administrado
 
 			<br>
@@ -23,6 +25,7 @@
 			- Enlace de los escensarios
 			<br>
 			- [Administrado esenarios](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=26093161)
+			<br>
 
 	- Confiabilidad
 			<br>

@@ -18,11 +18,12 @@
 	- Capacidad de ser Administrado
 			<br>
 			- **Características de el Atributo de Calidad**
+			<br>
 			![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/c.jpg)
 			<br>
 			- Enlace de los escenarios
 			<br>
-			- [Confiabilidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=26093161)
+			- [Administrado](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=26093161)
 			<br>
 
 	- Confiabilidad

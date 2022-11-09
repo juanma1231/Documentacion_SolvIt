@@ -9,7 +9,9 @@
 			- **Características de los el Atributo de Calidad**
 			<br>
 			![esc](imagenes/atributos/seguridad/c.jpg)
+			<br>
 			- Enlace a los Escenarios
+			<br>
 			- [Seguridad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=784533013)
 	- Capacidad de ser Administrado
 
@@ -17,14 +19,18 @@
 			- **Características de el Atributo de Calidad**
 			<br>
 			![esc](imagenes/atributos/capacidad%20de%20ser%20administrado/c.jpg)
+			<br>
 			- Enlace de los escensarios
+			<br>
 			- [Administrado esenarios](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=26093161)
 
 	- Confiabilidad
 			<br>
 			- **Características de el Atributo de Calidad**
-			![esc](imagenes/atributos/confiabilidad/caracteristics.jpg))
+			![esc](imagenes/atributos/confiabilidad/caracteristics.jpg)
+			<br>
 			- Enlace de los escenarios
+			<br>
 			- [Confiabilidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=1298871441)
 			<br>
 
@@ -33,15 +39,21 @@
 			- **Características de el Atributo de calidad**
 			<br>
 			![esc](imagenes/atributos/disponibilidad/c.jpg)
+			<br>
 			- Enscenarios de los esenarios
+			<br>
 			- [Disponibilidad](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=158668228)
+			<br>
 	- Capacidad de ser Soportado
 			<br>
 			- **Características el Atributo de calidad**
 			<br>
-			![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/c.jpg)<br>
+			![esc](imagenes/atributos/Capacidad%20de%20Ser%20soportado/c.jpg)
+			<br>
 			- Enlace a los Escenarios
+			<br>
 			- [Soportado](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=158668228)
+			<br>
 	
 
 	- Rendimiento
@@ -49,8 +61,11 @@
 			- **Características de el Atributo de Calidad**
 			<br>
 			![esc](imagenes/atributos/rendimiento/c.jpg)
+			<br>
 			- Enlace a los Escenarios
+			<br>
 			- [Rendimiento](https://docs.google.com/spreadsheets/d/19BZnZ8DsE1SvXHnfAUn8dCnYpQEulEgI/edit#gid=339074981)
+			<br>
 
 
 
